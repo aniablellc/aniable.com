@@ -9,6 +9,7 @@
 	<link rel="canonical" href="http://www.aniable.com" />
 	<link href="./css/style.css" rel="stylesheet" type="text/css" media="screen" />
 	<link href="./menu/css/megamenu.css" rel="stylesheet" type="text/css" media="screen" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!--
         Animated Collapsible DIV v2.4- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
         Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more       
