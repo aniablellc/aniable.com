@@ -9,14 +9,11 @@
 	<link rel="canonical" href="http://www.aniable.com" />
 	<link href="./css/style.css" rel="stylesheet" type="text/css" media="screen" />
 	<link href="./menu/css/megamenu.css" rel="stylesheet" type="text/css" media="screen" />
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-	<script type="text/javascript" src="./js/animatedcollapse.js">
-		/***********************************************
-		 * Animated Collapsible DIV v2.4- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-		 * This notice MUST stay intact for legal use
-		 * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
-		 ***********************************************/
-	</script>
+    <!--
+        Animated Collapsible DIV v2.4- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+        Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more       
+    -->
+    <script type="text/javascript" src="./js/animatedcollapse.js"></script>
 	<script type="text/javascript">
 		animatedcollapse.addDiv('A', 'fade=1,speed=400,group=about,hide=1')
 		animatedcollapse.addDiv('B', 'fade=1,speed=400,group=about,hide=1')
