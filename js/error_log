@@ -1,3 +1,0 @@
-[28-May-2010 23:00:19] PHP Warning:  require(./header.inc) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ewztech/public_html/js/index.php on line 22
-[28-May-2010 23:00:19] PHP Warning:  require(./header.inc) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/ewztech/public_html/js/index.php on line 22
-[28-May-2010 23:00:19] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './header.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ewztech/public_html/js/index.php on line 22
