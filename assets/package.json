@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "aniable.com",
+  "version": "1.0.0",
+  "scripts": {
+    "prod:build": "webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniablellc/aniable.com.git"
+  },
+  "keywords": [],
+  "author": "Sean O'Connor <so@seano.dev> (https://seano.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniablellc/aniable.com/issues"
+  },
+  "homepage": "https://github.com/aniablellc/aniable.com#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/plugin-transform-runtime": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.2",
+    "mini-css-extract-plugin": "^1.5.0",
+    "sass": "^1.32.10",
+    "sass-loader": "^11.0.1",
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
