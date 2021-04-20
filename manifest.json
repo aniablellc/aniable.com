@@ -1,0 +1,20 @@
+{
+  "name": "Aniable, LLC",
+  "short_name": "Aniable",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "description": "Infinite Possibilities",
+  "icons": [
+    {
+      "src": "192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
