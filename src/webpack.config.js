@@ -7,7 +7,7 @@ module.exports = {
     aniable: path.resolve(__dirname, 'app.js')
   },
   output: {
-    path: path.resolve(__dirname, '../'),
+    path: path.resolve(__dirname, '../static'),
     filename: '[name].js'
   },
   optimization: {

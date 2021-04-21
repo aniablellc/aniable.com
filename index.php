@@ -26,7 +26,7 @@ $url = "https://aniable.com/";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $title ?></title>
-    <link rel="stylesheet" href="aniable.css">
+    <link rel="stylesheet" href="static/aniable.css">
     <meta name="description" content="<?php echo $description ?>">
     <meta name="og:title" content="<?php echo $title ?>">
     <meta name="og:description" content="<?php echo $description ?>">
@@ -47,7 +47,7 @@ $url = "https://aniable.com/";
     <?php require './templates/header.php'; ?>
     <main></main>
     <?php require './templates/footer.php'; ?>
-    <script src="aniable.js"></script>
+    <script src="static/aniable.js"></script>
 </body>
 
 </html>
