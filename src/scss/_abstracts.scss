@@ -1,0 +1,28 @@
+$color-background: #d8effd;
+
+@mixin gradient-header {
+  background: rgb(12, 64, 150);
+  background: linear-gradient(
+    0deg,
+    rgba(12, 64, 150, 1) 0%,
+    rgba(1, 171, 255, 1) 100%
+  );
+}
+
+@mixin gradient-nav {
+  background: rgb(12, 64, 150);
+  background: linear-gradient(
+    0deg,
+    rgba(12, 64, 150, 1) 0%,
+    rgba(1, 171, 255, 1) 100%
+  );
+}
+
+@mixin gradient-body {
+  background: rgb(216, 239, 253);
+  background: linear-gradient(
+    0deg,
+    rgba(216, 239, 253, 1) 0%,
+    rgba(8, 163, 246, 1) 100%
+  );
+}
